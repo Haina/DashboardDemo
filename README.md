@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/cocoapods/v/DashboardDemo.svg?style=flat)](https://cocoapods.org/pods/DashboardDemo)
 [![License](https://img.shields.io/cocoapods/l/DashboardDemo.svg?style=flat)](https://cocoapods.org/pods/DashboardDemo)
 [![Platform](https://img.shields.io/cocoapods/p/DashboardDemo.svg?style=flat)](https://cocoapods.org/pods/DashboardDemo)
+## Preview
+![image](https://github.com/Haina/DashboardDemo/blob/main/Example/preview.gif)
 
 ## Example
 
