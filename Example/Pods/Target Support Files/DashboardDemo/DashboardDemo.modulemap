@@ -1,0 +1,6 @@
+framework module DashboardDemo {
+  umbrella header "DashboardDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
