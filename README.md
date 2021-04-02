@@ -24,7 +24,7 @@ pod 'DashboardDemo'
 
 ## Author
 
-Haina, 18011452295@cnzhjk.com
+Haina, uniquezfj@gmail.com
 
 ## License
 
